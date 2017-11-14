@@ -1,2 +1,0 @@
-# Azuretesting
-Azure testing
